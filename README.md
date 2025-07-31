@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MahimaaShri/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/MahimaaShri/leetcode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahimaaShri/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/MahimaaShri/leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/MahimaaShri/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
