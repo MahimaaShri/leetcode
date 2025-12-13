@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/MahimaaShri/leetcode/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/MahimaaShri/leetcode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
