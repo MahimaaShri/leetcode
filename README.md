@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MahimaaShri/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MahimaaShri/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/MahimaaShri/leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MahimaaShri/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MahimaaShri/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
