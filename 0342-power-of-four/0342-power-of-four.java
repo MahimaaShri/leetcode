@@ -10,10 +10,8 @@ class Solution {
         }
         for(int i=1;Math.pow(4,i)<=n;i++)
         {
-            if((int)Math.pow(4,i)==n)
-            {
+            if(Math.pow(4,i)==n)
                 return true;
-            }
         }
         return false;
     }
