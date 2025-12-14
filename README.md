@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MahimaaShri/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
+| [1025-divisor-game](https://github.com/MahimaaShri/leetcode/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/MahimaaShri/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/MahimaaShri/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/MahimaaShri/leetcode/tree/master/2469-convert-the-temperature) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MahimaaShri/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahimaaShri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/MahimaaShri/leetcode/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/MahimaaShri/leetcode/tree/master/2413-smallest-even-multiple) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/MahimaaShri/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/MahimaaShri/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
