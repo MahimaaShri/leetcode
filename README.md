@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MahimaaShri/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MahimaaShri/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MahimaaShri/leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/MahimaaShri/leetcode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MahimaaShri/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/MahimaaShri/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/MahimaaShri/leetcode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/MahimaaShri/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/MahimaaShri/leetcode/tree/master/0389-find-the-difference) |
 ## Interactive
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MahimaaShri/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/MahimaaShri/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/MahimaaShri/leetcode/tree/master/0476-number-complement) |
 ## Number Theory
 |  |
