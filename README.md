@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MahimaaShri/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MahimaaShri/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/MahimaaShri/leetcode/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/MahimaaShri/leetcode/tree/master/2235-add-two-integers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MahimaaShri/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/MahimaaShri/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MahimaaShri/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/MahimaaShri/leetcode/tree/master/0175-combine-two-tables) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
