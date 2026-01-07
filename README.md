@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MahimaaShri/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MahimaaShri/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/MahimaaShri/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MahimaaShri/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MahimaaShri/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahimaaShri/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MahimaaShri/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/MahimaaShri/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MahimaaShri/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/MahimaaShri/leetcode/tree/master/0392-is-subsequence) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MahimaaShri/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahimaaShri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MahimaaShri/leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/MahimaaShri/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MahimaaShri/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/MahimaaShri/leetcode/tree/master/0792-binary-search) |
