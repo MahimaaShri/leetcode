@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MahimaaShri/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MahimaaShri/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MahimaaShri/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MahimaaShri/leetcode/tree/master/0125-valid-palindrome) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahimaaShri/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MahimaaShri/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MahimaaShri/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/MahimaaShri/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MahimaaShri/leetcode/tree/master/0066-plus-one) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahimaaShri/leetcode/tree/master/0415-add-strings) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MahimaaShri/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
