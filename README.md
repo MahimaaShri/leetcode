@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/MahimaaShri/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/MahimaaShri/leetcode/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MahimaaShri/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/MahimaaShri/leetcode/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/MahimaaShri/leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/MahimaaShri/leetcode/tree/master/1046-last-stone-weight) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
