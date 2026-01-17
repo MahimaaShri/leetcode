@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MahimaaShri/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/MahimaaShri/leetcode/tree/master/0792-binary-search) |
+| [0867-transpose-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/MahimaaShri/leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahimaaShri/leetcode/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
