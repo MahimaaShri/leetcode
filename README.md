@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MahimaaShri/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/MahimaaShri/leetcode/tree/master/0792-binary-search) |
+| [1046-last-stone-weight](https://github.com/MahimaaShri/leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MahimaaShri/leetcode/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/MahimaaShri/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
