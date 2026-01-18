@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MahimaaShri/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MahimaaShri/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MahimaaShri/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MahimaaShri/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/MahimaaShri/leetcode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/MahimaaShri/leetcode/tree/master/0917-reverse-only-letters) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MahimaaShri/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/MahimaaShri/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MahimaaShri/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MahimaaShri/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MahimaaShri/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MahimaaShri/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
