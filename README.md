@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/MahimaaShri/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/MahimaaShri/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MahimaaShri/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MahimaaShri/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahimaaShri/leetcode/tree/master/0415-add-strings) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MahimaaShri/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/MahimaaShri/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MahimaaShri/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MahimaaShri/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/MahimaaShri/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
