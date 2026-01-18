@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/MahimaaShri/leetcode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/MahimaaShri/leetcode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/MahimaaShri/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahimaaShri/leetcode/tree/master/0415-add-strings) |
 | [0917-reverse-only-letters](https://github.com/MahimaaShri/leetcode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/MahimaaShri/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
