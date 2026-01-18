@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MahimaaShri/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MahimaaShri/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahimaaShri/leetcode/tree/master/0415-add-strings) |
+| [0819-most-common-word](https://github.com/MahimaaShri/leetcode/tree/master/0819-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/MahimaaShri/leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/MahimaaShri/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MahimaaShri/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/MahimaaShri/leetcode/tree/master/0792-binary-search) |
+| [0819-most-common-word](https://github.com/MahimaaShri/leetcode/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/MahimaaShri/leetcode/tree/master/1046-last-stone-weight) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MahimaaShri/leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MahimaaShri/leetcode/tree/master/0389-find-the-difference) |
+| [0819-most-common-word](https://github.com/MahimaaShri/leetcode/tree/master/0819-most-common-word) |
 ## Linked List
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MahimaaShri/leetcode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/MahimaaShri/leetcode/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
