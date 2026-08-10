@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MahimaaShri/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MahimaaShri/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/MahimaaShri/leetcode/tree/master/0217-contains-duplicate) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MahimaaShri/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/MahimaaShri/leetcode/tree/master/0792-binary-search) |
 | [0819-most-common-word](https://github.com/MahimaaShri/leetcode/tree/master/0819-most-common-word) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahimaaShri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/MahimaaShri/leetcode/tree/master/0198-house-robber) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/MahimaaShri/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/MahimaaShri/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MahimaaShri/leetcode/tree/master/0509-fibonacci-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MahimaaShri/leetcode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/MahimaaShri/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MahimaaShri/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0867-transpose-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/MahimaaShri/leetcode/tree/master/0994-rotting-oranges) |
 ## Trie
@@ -244,5 +248,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/MahimaaShri/leetcode/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
