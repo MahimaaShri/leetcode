@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/MahimaaShri/leetcode/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/MahimaaShri/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0867-transpose-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/MahimaaShri/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/MahimaaShri/leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MahimaaShri/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/MahimaaShri/leetcode/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/MahimaaShri/leetcode/tree/master/0819-most-common-word) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/MahimaaShri/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
