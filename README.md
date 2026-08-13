@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/MahimaaShri/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/MahimaaShri/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MahimaaShri/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/MahimaaShri/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/MahimaaShri/leetcode/tree/master/1046-last-stone-weight) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MahimaaShri/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MahimaaShri/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MahimaaShri/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/MahimaaShri/leetcode/tree/master/1025-divisor-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/MahimaaShri/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
